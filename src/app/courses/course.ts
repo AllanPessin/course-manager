@@ -3,6 +3,7 @@ export class Course {
   name: string
   imageUrl: string
   price: number
+  description: string
   code: string
   duration: number
   rating: number
